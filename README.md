@@ -1,11 +1,7 @@
-#### React Router Fix
+# Cocktails List
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+A list of your favorite Cocktails and instructions to make it. All can be found [here](https://your-cocktails-list.netlify.app/).
 
-#### CRA Fix
+---
 
-```
-
-"build": "CI= react-scripts build",
-
-```
+Similar App was created using vanilla JS. [Github](https://github.com/SirZeck/Cocktail-Menu) [Link](https://sirzeck.github.io/Cocktail-Menu/index.html)
